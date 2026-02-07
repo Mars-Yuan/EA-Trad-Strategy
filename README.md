@@ -8,7 +8,7 @@ EA Expert Automated trading strategies
 
 本系列案例目标形成 EA（Expert Advisors and Indicators ）机器自动交易策略，通过GitHub开源形成一批真正有实战价值的EA成果。
 
-## **案例1：Bidding OC Model (Yahoo Data Source).ipynb**
+## **案例1：Bidding_OC_Model(TushareDataSource).ipynb**
 
   __策略设计说明：__
 
